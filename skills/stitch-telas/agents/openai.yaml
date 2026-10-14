@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stitch — Criar e revisar telas"
+  short_description: "Telas consistentes com a identidade de cada projeto"
+  default_prompt: "Use $stitch-telas para criar ou refinar a tela solicitada no Google Stitch com os requisitos e referências deste projeto, e revisar o resultado."
